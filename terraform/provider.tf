@@ -7,7 +7,7 @@ terraform {
   }
     backend "s3" {
     bucket = "daws78s-nnr6"
-    key    = "expense-infra-db-backend-deploynew"
+    key    = "expense-infra-db-backend-deploynew333"
     region = "us-east-1"
     dynamodb_table = "daws78s-nnr6"
   }
